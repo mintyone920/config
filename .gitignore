@@ -3,6 +3,7 @@
 
 !.gitignore
 !helix/config.toml
+!helix/themes/*
 !alacritty/alacritty.yml
 !starship.toml
 !fish/config.fish
