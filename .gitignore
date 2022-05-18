@@ -1,2 +1,8 @@
-!config*
-!*toml
+*
+!*/
+
+!.gitignore
+!helix/config.toml
+!alacritty/alacritty.yml
+!starship.toml
+!fish/config.fish

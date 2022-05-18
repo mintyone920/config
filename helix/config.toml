@@ -1,0 +1,13 @@
+theme = "nord"
+
+[editor]
+line-number = "relative"
+middle-click-paste = false
+
+[editor.lsp]
+display-messages = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
